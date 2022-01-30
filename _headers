@@ -1,0 +1,4 @@
+/*
+	can't-be-evil: true
+	Access-Control-Allow-Origin: *
+	Access-Control-Allow-Methods: *
